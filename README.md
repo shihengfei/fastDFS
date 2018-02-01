@@ -17,3 +17,5 @@ pom 依赖maven 工程
 	<context:property-placeholder location="classpath:conf/*.properties" />
 	
 文件上传 Controller参考 FileUploadController.java
+
+搭建好 fastDFS服务器后暴露的服务器地址，修改配置文件地址。返回图片地址。
